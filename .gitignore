@@ -52,3 +52,6 @@ lib/generated_plugin_registrant.dart
 # android signing related stuff
 android/key.properties
 android/app/.signing
+
+# credentials
+tools/firebase/credentials.json
