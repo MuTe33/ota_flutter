@@ -12,6 +12,7 @@ void main() async {
 Future<RemoteLocalizations> _initLocalizations() async {
   final remoteLocalizations = RemoteLocalizations();
   final firestore = FirebaseFirestore.instance;
+
   final controller = RemoteLocalizationsController(firestore);
 
   final remoteTranslationMap = await controller.getRemoteLocalizations();
