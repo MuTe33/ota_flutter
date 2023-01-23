@@ -1,0 +1,12 @@
+{
+  "collection:app_translation_prod": {
+    "en": {
+      "time": "Time",
+      "helloUser": "Hello %s"
+    },
+    "de": {
+      "time": "Zeit",
+      "helloUser": "Hey %s"
+    } 
+  }
+}

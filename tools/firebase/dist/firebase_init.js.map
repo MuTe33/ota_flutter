@@ -1,0 +1,1 @@
+{"version":3,"file":"firebase_init.js","sourceRoot":"","sources":["../src/firestore_importer/firebase_init.ts"],"names":[],"mappings":";;;AAAA,sCAAwC;AAExC,SAAgB,eAAe;IAC3B,OAAO,KAAK,CAAC,aAAa,CACtB;QACI,UAAU,EAAE,KAAK,CAAC,UAAU,CAAC,IAAI,CAAC,iBAAiB,EAAE,CAAC;KACzD,CAEJ,CAAA;AACL,CAAC;AAPD,0CAOC;AAED,SAAS,iBAAiB;IACtB,OAAO,oBAAoB,CAAC;AAChC,CAAC"}
