@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970056434523",
+    "project_id": "ota-localizations",
+    "storage_bucket": "ota-localizations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970056434523:android:50ed7728da405a2aff907e",
+        "android_client_info": {
+          "package_name": "com.example.ota_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970056434523-3mf4kflqojeen3i8j16k9qp9pqtgfkv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_Hn1Ad8ZplscODS4e0qzSRwGKPxw1Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970056434523-3mf4kflqojeen3i8j16k9qp9pqtgfkv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

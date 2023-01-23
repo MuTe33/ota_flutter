@@ -2,11 +2,11 @@
   "collection:app_translation_prod": {
     "en": {
       "time": "Time",
-      "helloUser": "Hello %s"
+      "helloUser": "Hi %s"
     },
     "de": {
       "time": "Zeit",
-      "helloUser": "Hey %s"
+      "helloUser": "Grüzi %s"
     } 
   }
 }
